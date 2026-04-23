@@ -1,7 +1,7 @@
 {
   "id": "mangaflix-ptbr",
   "name": "MangaFlix",
-  "description": "Provider MangaFlix Usando API",
+  "description": "Manga provider for MangaFlix using API - Portuguese manga/manhwa Website",
   "manifestURI": "https://raw.githubusercontent.com/SKRAPT/MangaFlix/refs/heads/main/mangaflix.json",
   "version": "1.0.0",
   "author": "Skrapt",
